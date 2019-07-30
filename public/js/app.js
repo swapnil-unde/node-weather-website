@@ -1,4 +1,4 @@
-console.log('------------------in js file-------------')
+//console.log('------------------in js file-------------')
 
 // fetch('http://puzzle.mead.io/puzzle').then((response)=>{
 //     response.json().then((data)=>
